@@ -6,6 +6,8 @@ My solutions to the programming assignments in "Algorithms, Part I" by Princeton
 
 This repository contains solutions to all the programming assignments, where I have achieve 100% grade for each of them.  
 
+![grades image](img/grades.png)
+
 ## Percolation  
 This programming assignment requires the implementation of percolation. The specification for this assignment is [here](https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php).  
 The solution is [here](percolation).  
